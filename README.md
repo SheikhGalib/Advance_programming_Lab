@@ -1,7 +1,7 @@
-**Executive Summary**
+###**Executive Summary**
 This document provides a detailed overview of the initial phase of our Java and Android Programming lab, where we focused on setting up the Java development environment and understanding the basic concepts of the language. The goal of this lab was to establish the foundation required for future software development projects, especially in Android, by ensuring that all tools and dependencies are properly configured and the team is aligned with Java’s core principles. Furthermore, this lab clarified the transition from C/C++ to Java, highlighting important differences and key advantages of Java in modern application development.
 
-**Tools and Setup**
+###**Tools and Setup**
 To begin working with Java, we first had to set up the development environment. The tools and steps involved were as follows:
 -Java Development Kit (JDK): We learned how to download and install the JDK, which provides the essential tools for compiling and running Java programs.
 First going to this website we downloaded the JAVA JDK. Then installed in our machines. [https://www.oracle.com/java/technologies/downloads/#jdk23-windows](https://www.oracle.com/java/technologies/downloads/#jdk23-windows)
