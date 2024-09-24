@@ -9,19 +9,18 @@ To begin working with Java, we first had to set up the development environment. 
 **Java Development Kit (JDK**): We learned how to download and install the JDK, which provides the essential tools for compiling and running Java programs.
 
 First going to this website we downloaded the **JAVA JDK.** Then installed in our machines. **[https://www.oracle.com/java/technologies/downloads/#jdk23-windows**](https://www.oracle.com/java/technologies/downloads/%23jdk23-windows)**
-![Aspose Words f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa 001](https://github.com/user-attachments/assets/d88795e7-2507-490b-b0ff-77a2843d01f2)
 
-
-**![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.001.png)**
+![Screenshot 2024-09-17 225604](https://github.com/user-attachments/assets/24339f44-8202-44c6-8e2a-b03fa24d5caf)
 
 ` `**VS Code Installation:** Though several IDEs like Eclipse or IntelliJ IDEA are popular, we were taught how to set up Visual Studio Code (VS Code) as a lightweight yet powerful editor for Java development.
 First going to this website we downloaded the respective version of VS Code for our machine.
 <https://code.visualstudio.com/Download>
 
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.002.png)
+![Screenshot 2024-09-17 230435](https://github.com/user-attachments/assets/0be357ef-4209-45c1-bf89-5e5350656042)
 
 We made sure to mark all the check box, this shall come in handy later.
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.003.png) 
+
+![Screenshot 2024-09-17 231354](https://github.com/user-attachments/assets/c77f33fd-5551-4efd-97fd-1ba987cef9b1)
 
 After downloading and installation. We did some changes to it.
 **Optional:** I did some preference changes for ease of work. Goto **settings >** in the search option, search for auto save. Then change it to **afterDealy** and set **Auto Save Delay** to 700. 
@@ -32,22 +31,19 @@ After downloading and installation. We did some changes to it.
 First going to extensions. (just use **ctrl+shift+x**), then installed.
 **Code runner**, **Extension Pack for Java, Java, Debugger for Java, Test Runner for Java, Gradle for Java, Maven for Java, Project Manager for Java.**
 
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.004.png)
+![Screenshot 2024-09-17 232030](https://github.com/user-attachments/assets/fdb3c952-9802-42ce-b3b1-51e35b1c99f3)
 
 After Installation of Vs code and Java JDK we run some code to test If the system is running the code or not.
-**Optional:** For some users there might be some error in running the java code. If there is this problem. After running this command “**java  --version**” in the terminal. Then we need to update our environment variable. ![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.005.png)
+**Optional:** For some users there might be some error in running the java code. If there is this problem. After running this command “**java  --version**” in the terminal. Then we need to update our environment variable. 
+
+![Screenshot 2024-09-17 233307](https://github.com/user-attachments/assets/e2ed6271-b2ae-4a1d-9417-d757a57660b6)
 
 
-
-
-
-
-
-
+![Uploading Screenshot 2024-09-17 233932.png…]()
 
 Updating the environment variable. (optional)
 
-|Step-1![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.006.png)|<p>Step-2</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.007.png)</p>|
+|Step-1![](https://github.com/user-attachments/assets/30143399-a68e-4ff5-ae56-519d6f3efecf)|<p>Step-2</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.007.png)</p>|
 | :- | :- |
 |<p>Step-3</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.008.png)</p>|<p>Step-4</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.009.png)</p>|
 
