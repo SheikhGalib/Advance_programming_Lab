@@ -54,7 +54,8 @@ Step-5
 
 Open cmd and run “**java --version”**  This shall give this output 
 
-![11](https://github.com/user-attachments/assets/422f624e-0fcc-469d-9b61-fdacd55a74bc)
+![Screenshot 2024-09-17 235952](https://github.com/user-attachments/assets/a7e9b8b1-cacf-4362-b135-80e3b4076cae)
+
 
 Then we are good to go.
 
@@ -63,7 +64,7 @@ Then we are good to go.
 We open a folder in Vs code and named our program **Main.java**. It is important to note that Java is case sensitive. We went to this website to learn and practice some coding of Java.
 <https://www.w3schools.com/java/default.asp>
 
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.012.png)
+![11](https://github.com/user-attachments/assets/422f624e-0fcc-469d-9b61-fdacd55a74bc)
 
 Output:
 
