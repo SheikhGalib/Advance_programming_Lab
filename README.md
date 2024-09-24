@@ -10,17 +10,18 @@ To begin working with Java, we first had to set up the development environment. 
 
 First going to this website we downloaded the **JAVA JDK.** Then installed in our machines. **[https://www.oracle.com/java/technologies/downloads/#jdk23-windows**](https://www.oracle.com/java/technologies/downloads/%23jdk23-windows)**
 
-![Screenshot 2024-09-17 225604](https://github.com/user-attachments/assets/24339f44-8202-44c6-8e2a-b03fa24d5caf)
+![1](https://github.com/user-attachments/assets/4d6d8403-48cc-4da2-8eb0-2de192a61f49)
+
 
 ` `**VS Code Installation:** Though several IDEs like Eclipse or IntelliJ IDEA are popular, we were taught how to set up Visual Studio Code (VS Code) as a lightweight yet powerful editor for Java development.
 First going to this website we downloaded the respective version of VS Code for our machine.
 <https://code.visualstudio.com/Download>
 
-![Screenshot 2024-09-17 230435](https://github.com/user-attachments/assets/0be357ef-4209-45c1-bf89-5e5350656042)
+![2](https://github.com/user-attachments/assets/9ae98635-a33e-4696-b9c3-7eaea71a10e1)
 
 We made sure to mark all the check box, this shall come in handy later.
 
-![Screenshot 2024-09-17 231354](https://github.com/user-attachments/assets/c77f33fd-5551-4efd-97fd-1ba987cef9b1)
+![3](https://github.com/user-attachments/assets/9a1f5f33-8d6e-468f-a3d2-dcedb5c6b75e)
 
 After downloading and installation. We did some changes to it.
 **Optional:** I did some preference changes for ease of work. Goto **settings >** in the search option, search for auto save. Then change it to **afterDealy** and set **Auto Save Delay** to 700. 
@@ -31,28 +32,29 @@ After downloading and installation. We did some changes to it.
 First going to extensions. (just use **ctrl+shift+x**), then installed.
 **Code runner**, **Extension Pack for Java, Java, Debugger for Java, Test Runner for Java, Gradle for Java, Maven for Java, Project Manager for Java.**
 
-![Screenshot 2024-09-17 232030](https://github.com/user-attachments/assets/fdb3c952-9802-42ce-b3b1-51e35b1c99f3)
+![4](https://github.com/user-attachments/assets/832b9237-33f9-40b1-8ea5-1fc61aab8a05)
+
 
 After Installation of Vs code and Java JDK we run some code to test If the system is running the code or not.
 **Optional:** For some users there might be some error in running the java code. If there is this problem. After running this command “**java  --version**” in the terminal. Then we need to update our environment variable. 
 
-![Screenshot 2024-09-17 233307](https://github.com/user-attachments/assets/e2ed6271-b2ae-4a1d-9417-d757a57660b6)
-
-
-![Uploading Screenshot 2024-09-17 233932.png…]()
+![5](https://github.com/user-attachments/assets/0d305e8b-182f-4134-a1ab-ddb4332a3b9a)
 
 Updating the environment variable. (optional)
 
-|Step-1![](https://github.com/user-attachments/assets/30143399-a68e-4ff5-ae56-519d6f3efecf)|<p>Step-2</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.007.png)</p>|
+
+
+|Step-1![6](https://github.com/user-attachments/assets/8c57fadc-6deb-4a01-950a-0061dc2ada65)|<p>Step-2</p><p>![7](https://github.com/user-attachments/assets/6f0a19b2-0956-4ede-9f7d-efacf1d33552)</p>|
 | :- | :- |
-|<p>Step-3</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.008.png)</p>|<p>Step-4</p><p>![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.009.png)</p>|
+|<p>Step-3</p><p>![8](https://github.com/user-attachments/assets/86f79715-1f60-483b-9ebd-143249d6294a)</p>|<p>Step-4</p><p>![9](https://github.com/user-attachments/assets/98c9a324-3c34-4d4f-885e-4b5b1fe9278d)</p>|
 
 Step-5
+![10](https://github.com/user-attachments/assets/70ce7c6a-fa94-402c-9660-99b365958712)
 
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.010.png)
 
 Open cmd and run “**java --version”**  This shall give this output 
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.011.png)
+
+![11](https://github.com/user-attachments/assets/422f624e-0fcc-469d-9b61-fdacd55a74bc)
 
 Then we are good to go.
 
@@ -64,7 +66,8 @@ We open a folder in Vs code and named our program **Main.java**. It is important
 ![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.012.png)
 
 Output:
-![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.013.png)
+
+![12](https://github.com/user-attachments/assets/7ec8f999-090f-4993-8d84-9be81332c2ff)
 
 **Transitioning from C and C++ to Java**
 
