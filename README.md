@@ -9,6 +9,7 @@ To begin working with Java, we first had to set up the development environment. 
 **Java Development Kit (JDK**): We learned how to download and install the JDK, which provides the essential tools for compiling and running Java programs.
 
 First going to this website we downloaded the **JAVA JDK.** Then installed in our machines. **[https://www.oracle.com/java/technologies/downloads/#jdk23-windows**](https://www.oracle.com/java/technologies/downloads/%23jdk23-windows)**
+![Aspose Words f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa 001](https://github.com/user-attachments/assets/d88795e7-2507-490b-b0ff-77a2843d01f2)
 
 
 **![](Aspose.Words.f4a56bbb-2d1d-4103-bf2e-5d6ca311aefa.001.png)**
